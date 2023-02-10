@@ -34,11 +34,10 @@
     display: flex;
     margin-top: 20px;
     margin-bottom: 10px;
+    gap: 20px;
+    margin-left: 20px;
 }
 .calculator .value input {
-    display: flex;
-    margin-left: 20px;
-    justify-content: center;
     color: #fff;
     font-weight: 800;
     border: none;
